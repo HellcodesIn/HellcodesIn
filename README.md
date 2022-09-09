@@ -1,18 +1,25 @@
-### Hi there 👋
+# Hello world!
 
 
 **I am shubhesh**
 
-I have interest in
----
+I am good in 
+-----------------------------------------------------------------------------
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Image](/download.png "icon")
 
+# More
+
+I really **like 🍜🍜**      
+I **dont like ☕**      
+I **like 🍵🍵**     
+I want to be in **Web development**     
+I am **from 🇮🇳**  
+I also have some knowledge about **data structures**    
+
+### Some of my repos
+***(finished)*** vanilla js [Stopwatch](https://github.com/HellcodesIn/Stopwatch).   
+***(finished)*** vanilla js [Rock Paper scissors](https://github.com/HellcodesIn/Rock-paper-scissors).
+***<Under Construction>*** Whole side project with backend (currently private)    
+***(finished)*** [Counter app](https://github.com/HellcodesIn/counter) with svelte
